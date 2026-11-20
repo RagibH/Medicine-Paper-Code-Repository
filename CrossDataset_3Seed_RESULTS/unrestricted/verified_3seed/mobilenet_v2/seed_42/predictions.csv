@@ -1,0 +1,251 @@
+true_class,true_primary_index,predicted_class,predicted_primary_index,predicted_external_index,top5_primary_classes
+Ace,3,ATV,0,-1,ATV|DDR|Foly|GTN|Fexo
+Ace,3,Kiti,164,-1,Kiti|Vave|Fexo|Xyflo|Beklo
+Ace,3,Atoz,27,-1,Atoz|Ace|ATV|Algin|Acliz
+Ace,3,Atoz,27,-1,Atoz|DDR|Rabe|Alcet|Thyronor
+Ace,3,Ace,3,0,Ace|Prelica|Xyflo|Vave|DDR
+Ace,3,Rexiet,245,-1,Rexiet|Xyflo|Bislol|Kiti|Prelica
+Ace,3,Ace,3,0,Ace|Foly|Kiti|ATV|Max-D
+Ace,3,Ace,3,0,Ace|Foly|DDR|Rolip|ATV
+Ace,3,Xyflo,295,-1,Xyflo|Reefcal D|Rolip|Rocal-D|Foly
+Ace,3,Xyflo,295,-1,Xyflo|oraf|DDR|Ostel|Ace
+Axodin,32,Precodil,229,-1,Precodil|Renovit|Loxodol|Alkanon|Linatab
+Axodin,32,Renovit,243,-1,Renovit|Alkanon|Wella|Angenta|Famodin
+Axodin,32,Renovit,243,-1,Renovit|Rexiet|Noclog|Precodil|Raditil
+Axodin,32,Renovit,243,-1,Renovit|Rexiet|Wella|Alkanon|Pregaba
+Axodin,32,Famodin,112,-1,Famodin|Raditil|Famiclav|Malifa|Gavilac
+Axodin,32,Rexiet,245,-1,Rexiet|Renovit|Preclot|Prelica|Renzit
+Axodin,32,Renovit,243,-1,Renovit|Rexiet|Alkanon|Wella|Rofuclav
+Axodin,32,Renovit,243,-1,Renovit|Rexiet|Preclot|Pregaba|Prelica
+Axodin,32,Renovit,243,-1,Renovit|Rexiet|Preclot|Prelica|Pregaben
+Axodin,32,Rexiet,245,-1,Rexiet|Renovit|Pregaba|Preclot|Renzit
+Beklo,37,Beklo,37,2,Beklo|Betaloc|Linatab|Calbo|Cortan
+Beklo,37,Prelica,232,-1,Prelica|Xyflo|Rexiet|Reefcal D|Beklo
+Beklo,37,Wella,287,-1,Wella|Renovit|Rexiet|Xyril|Preclot
+Beklo,37,Rexiet,245,-1,Rexiet|Xyflo|Prelica|Renovit|Bislol
+Beklo,37,Xyflo,295,-1,Xyflo|Beklo|Rexiet|Reefcal D|Prelica
+Beklo,37,Norium,210,-1,Norium|Pregaben|Filwel silver|pandura|Wella
+Beklo,37,Xyflo,295,-1,Xyflo|Wella|Beklo|Rolip|Raditil
+Beklo,37,Xyflo,295,-1,Xyflo|Rexiet|Rediflex Plus|Renovit|Reefcal D
+Beklo,37,Xyflo,295,-1,Xyflo|Reefcal D|Beklo|Rofuclav|Wella
+Beklo,37,Renovit,243,-1,Renovit|Wella|Rofuclav|Rolip|Rexiet
+Denixil,79,Renovit,243,-1,Renovit|Renzit|Dexogut|Telmitan|Denixil
+Denixil,79,Renovit,243,-1,Renovit|Renzit|Nomi|Rexiet|Alkanon
+Denixil,79,Renovit,243,-1,Renovit|Renzit|Dexogut|Telmitan|Denixil
+Denixil,79,Renovit,243,-1,Renovit|Norium|Olmeson|Renzit|Thyrox
+Denixil,79,Renovit,243,-1,Renovit|Renzit|Rexiet|Beklo|Rhinil
+Denixil,79,Renovit,243,-1,Renovit|Rexiet|Wella|Alkanon|Renzit
+Denixil,79,Renovit,243,-1,Renovit|Norium|Olmeson|Renzit|Thyrox
+Denixil,79,Renovit,243,-1,Renovit|Norium|Olmeson|Renzit|Thyrox
+Denixil,79,Renovit,243,-1,Renovit|Denixil|pantonix|Renzit|Domiren
+Denixil,79,Renovit,243,-1,Renovit|Alkanon|Rexiet|Renzit|Esoral-M
+Disopan,87,Bizopan,46,-1,Bizopan|Bisopro|Disopan|Lumona|Ginoba
+Disopan,87,Pregaben,231,-1,Pregaben|Kalcoral|Paloron|Solupred|Pregaba
+Disopan,87,Renovit,243,-1,Renovit|Pregaba|Precodil|Montril|Cephoral
+Disopan,87,Disopan,87,4,Disopan|Bizopan|Bisopro|Angenta|Renovit
+Disopan,87,Alkanon,12,-1,Alkanon|Bizopan|Paloron|Itonorm|Gastrocon
+Disopan,87,Pregaba,230,-1,Pregaba|Kalcoral|Precodil|Alkanon|Loxodol
+Disopan,87,Itonorm,156,-1,Itonorm|Renovit|Famodin|Cephoral|Alkanon
+Disopan,87,Renovit,243,-1,Renovit|Pregaben|Alkanon|Cephoral|Bizopan
+Disopan,87,Renovit,243,-1,Renovit|Alkanon|Bizopan|Pregaba|Flucloxin
+Disopan,87,Kalcoral,161,-1,Kalcoral|Alkanon|Angenta|Nabumax|Kefuclav
+Esonix,104,Renovit,243,-1,Renovit|Nomi|Ivanor|Menaril|Famodin
+Esonix,104,Nomi,209,-1,Nomi|Rofuclav|Rolip|Telmitan|Renovit
+Esonix,104,Renovit,243,-1,Renovit|Alkanon|Famodin|Wella|Nabumax
+Esonix,104,Renovit,243,-1,Renovit|Famotack|Alkanon|Linatab|Ginoba
+Esonix,104,Renovit,243,-1,Renovit|Renzit|reservix|Plagrin|Toramax
+Esonix,104,Renovit,243,-1,Renovit|Pronex|Nomi|Visral|Rosu
+Esonix,104,Renovit,243,-1,Renovit|Famodin|Precodil|Alkanon|Mirotiv
+Esonix,104,Renovit,243,-1,Renovit|Precodil|Wella|Alkanon|Cephoral
+Esonix,104,Renovit,243,-1,Renovit|Famodin|Precodil|pantonix|Mirotiv
+Esonix,104,Famodin,112,-1,Famodin|Renovit|Esonix|Etopride|Precodil
+Exium,109,Exium,109,6,Exium|Maxima|Epitra|Ginoba|Folimax
+Exium,109,Telmitan,264,-1,Telmitan|Mirotiv|Alkanon|Thyronor|Renovit
+Exium,109,Exium,109,6,Exium|Ginoba|Folimax|Renovit|Zimax
+Exium,109,Exium,109,6,Exium|Zimax|Maxima|Folimax|Ginoba
+Exium,109,Renovit,243,-1,Renovit|Ridon|Xinc|Wella|Pronex
+Exium,109,Renovit,243,-1,Renovit|Alkanon|Paloron|Zolium|Prelica
+Exium,109,Exium,109,6,Exium|Zimax|Maxima|Folimax|Ginoba
+Exium,109,Nabumax,198,-1,Nabumax|Renovit|Alkanon|Flucloxin|Paloron
+Exium,109,Renovit,243,-1,Renovit|Gastrocon|Alkanon|Cephoral|Methomol
+Exium,109,Renovit,243,-1,Renovit|Alkanon|Zolium|Ipec plus|Rofuclav
+Fenadin,116,Famodin,112,-1,Famodin|Gaviflux|Renovit|Nabumax|Famiclav
+Fenadin,116,Xyflo,295,-1,Xyflo|Seclo|Ostel|Rosu|Vave
+Fenadin,116,Renovit,243,-1,Renovit|Alkanon|Wella|Rofuclav|Angenta
+Fenadin,116,Renovit,243,-1,Renovit|Alkanon|Rexiet|Precodil|Wella
+Fenadin,116,Pregaben,231,-1,Pregaben|Renovit|Rediflex Plus|Wella|Paloron
+Fenadin,116,Renovit,243,-1,Renovit|Famodin|Wella|Pregaba|Renapine
+Fenadin,116,Renovit,243,-1,Renovit|Alkanon|Wella|Rofuclav|Angenta
+Fenadin,116,Rediflex Plus,238,-1,Rediflex Plus|Norium|Pregaben|Filwel silver|Napa Extend
+Fenadin,116,Xyflo,295,-1,Xyflo|Vergon|Rosu|Beklo|Rexiet
+Fenadin,116,Renovit,243,-1,Renovit|Famodin|Precodil|Epilim Chrono|Itonorm
+Fexo,119,Pronex,233,-1,Pronex|Xyflo|Rosu|oraf|Rupa
+Fexo,119,Fexo,119,8,Fexo|Foly|Indever|Max-D|Beklo
+Fexo,119,Rosu,255,-1,Rosu|Fexo|Seclo|Ostel|DDR
+Fexo,119,Xyflo,295,-1,Xyflo|Xyril|Rosu|Vergon|Thyrox
+Fexo,119,B126,33,-1,B126|GTN|Kiti|Fexo|Gaba
+Fexo,119,Renovit,243,-1,Renovit|Renapine|Methomol|Famodin|Epilim Chrono
+Fexo,119,Nabumax,198,-1,Nabumax|Renovit|Kefuclav|Kalcoral|Alkanon
+Fexo,119,Fexo,119,8,Fexo|Foly|Seclo|Xyflo|Rosu
+Fexo,119,Rexiet,245,-1,Rexiet|Xyflo|Ivanor|Renovit|Beklo
+Fexo,119,Reefcal D,240,-1,Reefcal D|Rofuclav|Renovit|Rexiet|Beklo
+Fexofast,120,Rediflex Plus,238,-1,Rediflex Plus|Renovit|Rexiet|Pregaben|Renzit
+Fexofast,120,Prelica,232,-1,Prelica|Renovit|Rexiet|Rediflex Plus|Pregaben
+Fexofast,120,Renovit,243,-1,Renovit|Rexiet|Prelica|Renzit|Alkanon
+Fexofast,120,Renovit,243,-1,Renovit|Rexiet|Pregaben|Reefcal D|Famotack
+Fexofast,120,Renovit,243,-1,Renovit|Thyrox|Flucloxin|Thyronor|Pregaba
+Fexofast,120,Rediflex Plus,238,-1,Rediflex Plus|Renovit|Wella|Rexiet|Pregaben
+Fexofast,120,Renovit,243,-1,Renovit|Rexiet|Rediflex Plus|Pregaben|Prelica
+Fexofast,120,Pregaben,231,-1,Pregaben|Reefcal D|Famotack|Preclot|Rofuclav
+Fexofast,120,Rofuclav,250,-1,Rofuclav|Renovit|Reefcal D|Paloron|Rediflex Plus
+Fexofast,120,Renovit,243,-1,Renovit|Rexiet|Prelica|Renzit|Rediflex Plus
+Fixal,124,Pregaba,230,-1,Pregaba|Wella|Renovit|M-Lucas|Precodil
+Fixal,124,Renovit,243,-1,Renovit|Preclot|Rexiet|Renzit|Povital
+Fixal,124,Visral,282,-1,Visral|Wella|Vave|Vasocor|Rofuclav
+Fixal,124,Linatab,168,-1,Linatab|Lanso-D|Rosu|Ovocal|Noclog
+Fixal,124,Rosu,255,-1,Rosu|Xyril|Xyflo|Bislol|Nomi
+Fixal,124,Renovit,243,-1,Renovit|Wella|Rexiet|Pregaba|M-Lucas
+Fixal,124,Xinc,292,-1,Xinc|Tufnil|Xyril|Viset|Visral
+Fixal,124,Visral,282,-1,Visral|Xinc|Viset|Tufnil|Fixal
+Fixal,124,Renovit,243,-1,Renovit|Wella|Precodil|Lopirel Plus|Alkanon
+Fixal,124,Renovit,243,-1,Renovit|Preclot|Rexiet|Alkanon|Prelica
+Flexibac,128,Thyrox,266,-1,Thyrox|Linatab|Thyronor|Gavilac|pentobex
+Flexibac,128,Renovit,243,-1,Renovit|Rexiet|Wella|Prelica|Rediflex Plus
+Flexibac,128,Maxima,178,14,Maxima|Filwel silver|Renzit|Renovit|Rexiet
+Flexibac,128,Maxima,178,14,Maxima|Filwel silver|Renzit|Renovit|Rexiet
+Flexibac,128,Rexiet,245,-1,Rexiet|Renovit|Alkanon|Wella|Prelica
+Flexibac,128,Rofuclav,250,-1,Rofuclav|Telmitan|Thyronor|Renovit|Epitra
+Flexibac,128,Wella,287,-1,Wella|Precodil|Rexiet|Prelica|Preclot
+Flexibac,128,Prelica,232,-1,Prelica|Rexiet|Renovit|Preclot|Pregaben
+Flexibac,128,Wella,287,-1,Wella|Preclot|Rexiet|Xyril|Renovit
+Flexibac,128,Renovit,243,-1,Renovit|Rexiet|Alkanon|Prelica|Rediflex Plus
+Lumona,172,Lumona,172,12,Lumona|Coralmax|Vonomax|Maxima|Ambrox
+Lumona,172,Renovit,243,-1,Renovit|Lumona|Wella|Vonomax|Xyril
+Lumona,172,Lumona,172,12,Lumona|Clavonox|Renovit|Vonomax|Nabumax
+Lumona,172,Lumona,172,12,Lumona|Clavonox|Renovit|Vonomax|Nabumax
+Lumona,172,Renovit,243,-1,Renovit|Wella|Norium|Precodil|Alkanon
+Lumona,172,Renovit,243,-1,Renovit|Alkanon|Wella|Norium|Rofuclav
+Lumona,172,Renovit,243,-1,Renovit|Alkanon|Rexiet|Prelica|Wella
+Lumona,172,Renovit,243,-1,Renovit|Alkanon|Norium|Nabumax|Rexiet
+Lumona,172,Renovit,243,-1,Renovit|Alkanon|Cephoral|Precodil|Vonomax
+Lumona,172,Renovit,243,-1,Renovit|Vonomax|Alkanon|Visral|Cephoral
+M-kast,174,M-kast,174,13,M-kast|Iventi|M-Lucas|revert|Xelmet
+M-kast,174,Xyflo,295,-1,Xyflo|Malifa|Telmitan|Renzit|Renovit
+M-kast,174,Renovit,243,-1,Renovit|Alkanon|Nabumax|M-Lucas|Thyronor
+M-kast,174,M-Lucas,173,-1,M-Lucas|Nabumet|Nabumax|Iventi|Max-D
+M-kast,174,Rexiet,245,-1,Rexiet|Renovit|Xyflo|Rofuclav|Dexogut
+M-kast,174,Rexiet,245,-1,Rexiet|Renovit|Rediflex Plus|Lopirel Plus|Rofuclav
+M-kast,174,Nabumax,198,-1,Nabumax|Renovit|Alkanon|Nabumet|M-Lucas
+M-kast,174,Alkanon,12,-1,Alkanon|M-Lucas|Nabumet|M-kast|Renovit
+M-kast,174,Renovit,243,-1,Renovit|Alkanon|Rexiet|Rofuclav|Renzit
+M-kast,174,Rexiet,245,-1,Rexiet|Renovit|Prelica|Renzit|Xyflo
+Maxima,178,Maxima,178,14,Maxima|Nabumax|Renovit|Napa One|Norium
+Maxima,178,Nabumax,198,-1,Nabumax|Norium|Renovit|pandura|Alkanon
+Maxima,178,Renovit,243,-1,Renovit|Nabumax|Alkanon|Rexiet|Maxima
+Maxima,178,Maxima,178,14,Maxima|Nabumax|Norium|Renovit|Alkanon
+Maxima,178,Renovit,243,-1,Renovit|Rexiet|Rediflex Plus|Pregaben|Avloclav
+Maxima,178,Nabumax,198,-1,Nabumax|Alkanon|pandura|Nabumet|Epilim Chrono
+Maxima,178,Maxima,178,14,Maxima|Nabumax|Norium|Renovit|Alkanon
+Maxima,178,Maxima,178,14,Maxima|Nabumax|Norium|Renovit|Alkanon
+Maxima,178,Maxima,178,14,Maxima|Nabumax|Norium|Myolax|Alkanon
+Maxima,178,Nabumax,198,-1,Nabumax|Alkanon|Nabumet|Renovit|Flucloxin
+Maxpro,179,Alkanon,12,-1,Alkanon|Renovit|Rexiet|Wella|Nabumax
+Maxpro,179,Renovit,243,-1,Renovit|Wella|Rexiet|Alkanon|Renzit
+Maxpro,179,Pregaba,230,-1,Pregaba|Renovit|Rexiet|Wella|Alkanon
+Maxpro,179,Renovit,243,-1,Renovit|Rexiet|Wella|Prelica|Pregaben
+Maxpro,179,Napa One,202,-1,Napa One|Maxpro|Linatab|Kalcoral|Loxodol
+Maxpro,179,Lopirel Plus,170,-1,Lopirel Plus|Renovit|Kefuclav|Epilim Chrono|Precodil
+Maxpro,179,Renovit,243,-1,Renovit|Nabumax|Mirotiv|Alkanon|Wella
+Maxpro,179,Xyflo,295,-1,Xyflo|Renovit|Rexiet|Noclog|Renzit
+Maxpro,179,Renovit,243,-1,Renovit|Rexiet|Alkanon|Pregaben|Nabumax
+Maxpro,179,Renovit,243,-1,Renovit|Rexiet|Alkanon|Pregaben|Nabumax
+Monas,189,Maxima,178,14,Maxima|Monas|Lumona|Nabumax|Myolax
+Monas,189,Renovit,243,-1,Renovit|Visral|Wella|Alkanon|Linatab
+Monas,189,Renovit,243,-1,Renovit|Rexiet|Preclot|Renzit|Rofuclav
+Monas,189,Renovit,243,-1,Renovit|Renzit|Visral|Rexiet|Wella
+Monas,189,Renovit,243,-1,Renovit|Renzit|Rexiet|Visral|Napa One
+Monas,189,Renovit,243,-1,Renovit|Visral|Preclot|Precodil|Wella
+Monas,189,Renovit,243,-1,Renovit|Rexiet|Wella|Prelica|Alkanon
+Monas,189,Rexiet,245,-1,Rexiet|Renovit|Renzit|Prelica|Alkanon
+Monas,189,Renovit,243,-1,Renovit|Wella|Rexiet|Xyril|Precodil
+Monas,189,Renovit,243,-1,Renovit|Wella|Preclot|Prelica|Rexiet
+Montene,191,Normens,211,-1,Normens|Methomol|Napa One|Epilim Chrono|Montene
+Montene,191,Renovit,243,-1,Renovit|Wella|Alkanon|Norium|Prelica
+Montene,191,Normens,211,-1,Normens|Montene|Montril|Napa One|Napa Extra
+Montene,191,Methomol,185,-1,Methomol|Vonomax|Alkanon|Lumona|Cephoral
+Montene,191,Rexiet,245,-1,Rexiet|Wella|Prelica|Renovit|Renzit
+Montene,191,Nabumax,198,-1,Nabumax|Renovit|Pregaben|Norium|Alkanon
+Montene,191,Normens,211,-1,Normens|Napa One|Methomol|Montril|Montene
+Montene,191,Renovit,243,-1,Renovit|Alkanon|Napa One|Vonomax|Montril
+Montene,191,Renovit,243,-1,Renovit|Alkanon|Prelica|Pregaben|Rexiet
+Montene,191,Renovit,243,-1,Renovit|Alkanon|Wella|Precodil|Rexiet
+Napa Extend,200,Napa One,202,-1,Napa One|Renovit|Napa Extend|Max-D|Normens
+Napa Extend,200,XPA XR,288,-1,XPA XR|Rediflex Plus|Pregaben|Napa Extend|Renovit
+Napa Extend,200,Renovit,243,-1,Renovit|Naprosyn|Vitabion|Zolium|Visral
+Napa Extend,200,Renovit,243,-1,Renovit|Napa Extend|Napa One|Alkanon|Wella
+Napa Extend,200,Pregaben,231,-1,Pregaben|Renovit|XPA XR|Naprosyn|Vidalin F
+Napa Extend,200,Norium,210,-1,Norium|Rediflex Plus|Visceralgine|pandura|Duovas
+Napa Extend,200,Napa Extra,201,-1,Napa Extra|Napa Extend|Napa One|XPA XR|Thyronor
+Napa Extend,200,Naprosyn,203,-1,Naprosyn|XPA XR|Napa Extend|Renovit|Napa Extra
+Napa Extend,200,XPA XR,288,-1,XPA XR|Napa One|Napa Extend|Napa Extra|Naprosyn
+Napa Extend,200,Renovit,243,-1,Renovit|Rediflex Plus|Napa Extend|Wella|Pregaben
+Odmon,212,Odmon,212,19,Odmon|Ivanor|Ginoba|Renovit|Famodin
+Odmon,212,Renovit,243,-1,Renovit|Alkanon|Rexiet|Wella|Pronex
+Odmon,212,Odmon,212,19,Odmon|Renovit|Ginoba|Optimax|Flamex
+Odmon,212,Odmon,212,19,Odmon|Renovit|Lumona|Optimax|Maxima
+Odmon,212,Renovit,243,-1,Renovit|Odmon|Cephoral|Alkanon|Ginoba
+Odmon,212,Renovit,243,-1,Renovit|Alkanon|Wella|Rexiet|Precodil
+Odmon,212,Odmon,212,19,Odmon|Alkanon|Ginoba|Gastrocon|Ambrox
+Odmon,212,Odmon,212,19,Odmon|Dexnova|Dexlan|Olmeson|Alkanon
+Odmon,212,Odmon,212,19,Odmon|Ginoba|Olmeson|Ambrox|Alkanon
+Odmon,212,Odmon,212,19,Odmon|Olmeson|Ovocal|Vonomax|Ambrox
+Renova,242,Renovit,243,-1,Renovit|Rexiet|Renzit|Alkanon|Wella
+Renova,242,Renovit,243,-1,Renovit|Rexiet|Alkanon|Pronex|Pregaba
+Renova,242,Renovit,243,-1,Renovit|Alkanon|Paloron|Pregaben|Norium
+Renova,242,Renovit,243,-1,Renovit|Alkanon|Norium|Nabumax|Pregaben
+Renova,242,Renovit,243,-1,Renovit|Nabumax|Maxima|Angenta|Renzit
+Renova,242,Renovit,243,-1,Renovit|Preclot|Prelica|Renzit|Alkanon
+Renova,242,Renovit,243,-1,Renovit|Alkanon|Renzit|Rexiet|Wella
+Renova,242,Renovit,243,-1,Renovit|Pronex|Renzit|Wella|Precodil
+Renova,242,Renovit,243,-1,Renovit|Precodil|Wella|Renzit|Pregaba
+Renova,242,Renovit,243,-1,Renovit|Rexiet|Wella|Alkanon|Ivanor
+Rhinil,246,Renzit,244,-1,Renzit|Nomi|Rhinil|Telmitan|Montril
+Rhinil,246,Renzit,244,-1,Renzit|Rhinil|Renovit|Oxical|Nomi
+Rhinil,246,Renzit,244,-1,Renzit|Rhinil|Renovit|Nomi|Telmitan
+Rhinil,246,Rhinil,246,21,Rhinil|Renzit|Axim|Nomi|Maxima
+Rhinil,246,Renovit,243,-1,Renovit|Renzit|Visral|Wella|Precodil
+Rhinil,246,Renovit,243,-1,Renovit|Nomi|Renzit|Telmitan|Thyronor
+Rhinil,246,Rhinil,246,21,Rhinil|Renovit|Renzit|Folinic|Nomi
+Rhinil,246,Renzit,244,-1,Renzit|Rhinil|Rexiet|Telmitan|Raditil
+Rhinil,246,Rhinil,246,21,Rhinil|Renovit|Nomi|Renzit|Prelica
+Rhinil,246,Renzit,244,-1,Renzit|Rhinil|Maxima|Telmitan|Nomi
+Sergel,261,Rexiet,245,-1,Rexiet|Renzit|Malifa|Telmitan|Renovit
+Sergel,261,Nabumax,198,-1,Nabumax|Renovit|Alkanon|Kalcoral|Wella
+Sergel,261,Pregaba,230,-1,Pregaba|Pregaben|Wella|Solupred|Alkanon
+Sergel,261,Loxodol,171,-1,Loxodol|Rofuclav|Vasocor|Deflacort|Rosu
+Sergel,261,oraf,305,-1,oraf|Vergon|Sergel|Rosu|Xyflo
+Sergel,261,Rexiet,245,-1,Rexiet|Renovit|Pregaba|Wella|Alkanon
+Sergel,261,Sergel,261,22,Sergel|Loxodol|Vergon|replet|Kalcoral
+Sergel,261,Loxodol,171,-1,Loxodol|Vergon|Xorel|Kalcoral|Sergel
+Sergel,261,Rosu,255,-1,Rosu|Ovocal|oraf|Lanso-D|Docopa
+Sergel,261,Rexiet,245,-1,Rexiet|Renzit|Malifa|Telmitan|Renovit
+Trilock,270,Rofuclav,250,-1,Rofuclav|Bislol|Telmitan|Ivanor|Trilock
+Trilock,270,Renovit,243,-1,Renovit|Rexiet|Rofuclav|Wella|Alkanon
+Trilock,270,Renovit,243,-1,Renovit|Rexiet|Wella|Rofuclav|Prelica
+Trilock,270,Renovit,243,-1,Renovit|Rofuclav|Rexiet|Wella|Alkanon
+Trilock,270,Renovit,243,-1,Renovit|Wella|Preclot|Rexiet|Alkanon
+Trilock,270,Rofuclav,250,-1,Rofuclav|Renovit|Nabumax|Kefuclav|Montril
+Trilock,270,Renovit,243,-1,Renovit|Rexiet|Wella|Alkanon|Rofuclav
+Trilock,270,Renovit,243,-1,Renovit|Rexiet|Wella|Rofuclav|Alkanon
+Trilock,270,Renovit,243,-1,Renovit|Wella|Rexiet|Renzit|Precodil
+Trilock,270,Rexiet,245,-1,Rexiet|Thyronor|Renovit|Telmitan|Raditil
+Zithrin,299,Ginoba,149,-1,Ginoba|Famodin|Gaviflux|Zithrin|Flucloxin
+Zithrin,299,Zithrin,299,24,Zithrin|Itokine|Thyronor|Telmitan|Rhinil
+Zithrin,299,Zithrin,299,24,Zithrin|Telmitan|Ecosprin|Epitra|Gastrocon
+Zithrin,299,Renzit,244,-1,Renzit|Renovit|Nomi|Itokine|Telmitan
+Zithrin,299,Renovit,243,-1,Renovit|Alkanon|Nabumax|Optimax|Rofuclav
+Zithrin,299,Itonorm,156,-1,Itonorm|Zithrin|Optimax|Odmon|Renovit
+Zithrin,299,Odmon,212,19,Odmon|Zithrin|Telmitan|Thyronor|Tolson
+Zithrin,299,Zithrin,299,24,Zithrin|Itokine|Flucloxin|Fliban|Thyronor
+Zithrin,299,Zithrin,299,24,Zithrin|Itokine|Telmitan|Flamex|Folinic
+Zithrin,299,Zithrin,299,24,Zithrin|Telmitan|Itokine|Bilastin|Flucloxin

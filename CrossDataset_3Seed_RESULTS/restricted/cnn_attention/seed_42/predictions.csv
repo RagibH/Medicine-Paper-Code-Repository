@@ -1,0 +1,251 @@
+true_class,true_external_index,true_primary_index,predicted_class,predicted_external_index,predicted_primary_index,top5_classes
+Ace,0,3,Fexo,8,119,Fexo|Ace|Maxpro|Renova|Lumona
+Ace,0,3,Ace,0,3,Ace|Renova|Lumona|Fexo|Trilock
+Ace,0,3,Ace,0,3,Ace|Fexo|Renova|Odmon|Denixil
+Ace,0,3,Ace,0,3,Ace|Trilock|Esonix|Beklo|Sergel
+Ace,0,3,Ace,0,3,Ace|Trilock|Montene|Beklo|Renova
+Ace,0,3,Beklo,2,37,Beklo|Ace|Fexo|Maxpro|Renova
+Ace,0,3,Ace,0,3,Ace|Fexo|Renova|Fixal|Odmon
+Ace,0,3,Ace,0,3,Ace|Fexo|Trilock|Beklo|Odmon
+Ace,0,3,Sergel,22,261,Sergel|Fexo|Lumona|Renova|Odmon
+Ace,0,3,Ace,0,3,Ace|Sergel|Fexo|Beklo|Odmon
+Axodin,1,32,Fenadin,7,116,Fenadin|Beklo|Axodin|Rhinil|Esonix
+Axodin,1,32,Lumona,12,172,Lumona|Renova|Esonix|Fexo|Maxpro
+Axodin,1,32,Beklo,2,37,Beklo|Rhinil|Axodin|Maxpro|Fixal
+Axodin,1,32,Beklo,2,37,Beklo|Renova|Rhinil|Lumona|Maxpro
+Axodin,1,32,Axodin,1,32,Axodin|Fenadin|Fixal|Maxima|Fexo
+Axodin,1,32,Beklo,2,37,Beklo|Maxpro|Sergel|Ace|Rhinil
+Axodin,1,32,Renova,20,242,Renova|Lumona|Beklo|Rhinil|Zithrin
+Axodin,1,32,Sergel,22,261,Sergel|Lumona|Beklo|Renova|Maxpro
+Axodin,1,32,Maxpro,15,179,Maxpro|Lumona|Maxima|Renova|Rhinil
+Axodin,1,32,Beklo,2,37,Beklo|Lumona|Renova|Maxpro|Fexo
+Beklo,2,37,Beklo,2,37,Beklo|Maxpro|Renova|Odmon|Fexo
+Beklo,2,37,Beklo,2,37,Beklo|Maxpro|Renova|Fixal|Fexo
+Beklo,2,37,Maxpro,15,179,Maxpro|Trilock|Beklo|Lumona|Napa Extend
+Beklo,2,37,Beklo,2,37,Beklo|Maxpro|Renova|Ace|Napa Extend
+Beklo,2,37,Beklo,2,37,Beklo|Renova|Trilock|Odmon|Maxpro
+Beklo,2,37,Trilock,23,270,Trilock|Zithrin|M-kast|Esonix|Exium
+Beklo,2,37,Beklo,2,37,Beklo|Maxpro|Montene|Sergel|Fexo
+Beklo,2,37,Maxpro,15,179,Maxpro|Fexo|Sergel|Lumona|Beklo
+Beklo,2,37,Beklo,2,37,Beklo|Fexo|Maxpro|Sergel|Montene
+Beklo,2,37,Maxpro,15,179,Maxpro|Lumona|Renova|Fixal|Disopan
+Denixil,3,79,Rhinil,21,246,Rhinil|Lumona|Denixil|Monas|Odmon
+Denixil,3,79,Lumona,12,172,Lumona|Maxima|Rhinil|Exium|Maxpro
+Denixil,3,79,Rhinil,21,246,Rhinil|Lumona|Denixil|Monas|Odmon
+Denixil,3,79,Rhinil,21,246,Rhinil|Lumona|Disopan|Zithrin|Renova
+Denixil,3,79,Rhinil,21,246,Rhinil|Renova|Zithrin|Disopan|Exium
+Denixil,3,79,Fixal,10,124,Fixal|Lumona|Trilock|Exium|Zithrin
+Denixil,3,79,Rhinil,21,246,Rhinil|Lumona|Disopan|Zithrin|Renova
+Denixil,3,79,Rhinil,21,246,Rhinil|Lumona|Disopan|Zithrin|Renova
+Denixil,3,79,Rhinil,21,246,Rhinil|Lumona|Zithrin|Fexo|Napa Extend
+Denixil,3,79,Renova,20,242,Renova|Disopan|Maxpro|Exium|Fixal
+Disopan,4,87,Disopan,4,87,Disopan|Maxpro|Lumona|Sergel|Renova
+Disopan,4,87,Lumona,12,172,Lumona|Maxpro|Renova|Sergel|Beklo
+Disopan,4,87,Lumona,12,172,Lumona|Disopan|Rhinil|Fixal|Esonix
+Disopan,4,87,Disopan,4,87,Disopan|Lumona|Sergel|Maxpro|Odmon
+Disopan,4,87,Odmon,19,212,Odmon|Disopan|Lumona|Esonix|Renova
+Disopan,4,87,Sergel,22,261,Sergel|Lumona|Zithrin|Exium|Beklo
+Disopan,4,87,Disopan,4,87,Disopan|Lumona|Renova|Montene|Exium
+Disopan,4,87,Sergel,22,261,Sergel|Disopan|Lumona|Zithrin|Rhinil
+Disopan,4,87,Sergel,22,261,Sergel|Lumona|Disopan|Flexibac|Renova
+Disopan,4,87,Zithrin,24,299,Zithrin|Renova|Exium|Montene|Fenadin
+Esonix,5,104,Monas,16,189,Monas|Esonix|Lumona|Maxima|Renova
+Esonix,5,104,Disopan,4,87,Disopan|Zithrin|Lumona|Exium|Renova
+Esonix,5,104,Esonix,5,104,Esonix|Exium|Fixal|Renova|Disopan
+Esonix,5,104,Lumona,12,172,Lumona|Monas|Renova|Exium|Montene
+Esonix,5,104,Esonix,5,104,Esonix|Renova|Lumona|Exium|Rhinil
+Esonix,5,104,Esonix,5,104,Esonix|Lumona|Odmon|Renova|Monas
+Esonix,5,104,Esonix,5,104,Esonix|Lumona|Zithrin|Exium|Disopan
+Esonix,5,104,Beklo,2,37,Beklo|Lumona|Exium|Fixal|Zithrin
+Esonix,5,104,Esonix,5,104,Esonix|Lumona|Renova|Zithrin|Exium
+Esonix,5,104,Esonix,5,104,Esonix|Renova|Exium|Fenadin|Maxima
+Exium,6,109,Exium,6,109,Exium|Maxima|Fixal|Renova|Montene
+Exium,6,109,Exium,6,109,Exium|Zithrin|Disopan|Trilock|Fixal
+Exium,6,109,Exium,6,109,Exium|Fixal|Maxima|Montene|Fenadin
+Exium,6,109,Exium,6,109,Exium|Maxima|Fixal|Montene|Esonix
+Exium,6,109,Exium,6,109,Exium|Fixal|Renova|Esonix|Montene
+Exium,6,109,Odmon,19,212,Odmon|Lumona|Renova|Maxpro|Monas
+Exium,6,109,Exium,6,109,Exium|Maxima|Fixal|Montene|Esonix
+Exium,6,109,Zithrin,24,299,Zithrin|Renova|Exium|Maxima|Rhinil
+Exium,6,109,Exium,6,109,Exium|Renova|Montene|Fixal|Maxima
+Exium,6,109,Exium,6,109,Exium|Esonix|Zithrin|Rhinil|Renova
+Fenadin,7,116,Maxima,14,178,Maxima|Lumona|Renova|Fenadin|Esonix
+Fenadin,7,116,Beklo,2,37,Beklo|Odmon|Renova|Fexo|Sergel
+Fenadin,7,116,Lumona,12,172,Lumona|Renova|Exium|Maxpro|Zithrin
+Fenadin,7,116,Lumona,12,172,Lumona|Renova|Exium|Fixal|Maxpro
+Fenadin,7,116,Renova,20,242,Renova|Lumona|Fenadin|Fixal|Trilock
+Fenadin,7,116,Renova,20,242,Renova|Beklo|Lumona|Exium|Montene
+Fenadin,7,116,Lumona,12,172,Lumona|Renova|Exium|Maxpro|Zithrin
+Fenadin,7,116,Zithrin,24,299,Zithrin|Maxima|Disopan|Maxpro|Trilock
+Fenadin,7,116,Fexo,8,119,Fexo|Beklo|Sergel|Maxpro|Ace
+Fenadin,7,116,Fenadin,7,116,Fenadin|Zithrin|Renova|Fixal|Rhinil
+Fexo,8,119,Odmon,19,212,Odmon|Beklo|Renova|Rhinil|Fenadin
+Fexo,8,119,Fexo,8,119,Fexo|Maxpro|Beklo|Sergel|Ace
+Fexo,8,119,Beklo,2,37,Beklo|Ace|Sergel|Odmon|Fexo
+Fexo,8,119,Beklo,2,37,Beklo|Odmon|Renova|Fexo|Maxpro
+Fexo,8,119,Beklo,2,37,Beklo|Ace|Fexo|Maxpro|Sergel
+Fexo,8,119,Fixal,10,124,Fixal|Exium|Renova|Lumona|Zithrin
+Fexo,8,119,Beklo,2,37,Beklo|Maxpro|Zithrin|Lumona|Sergel
+Fexo,8,119,Fexo,8,119,Fexo|Beklo|Odmon|Ace|Maxpro
+Fexo,8,119,Fexo,8,119,Fexo|Maxpro|Sergel|Beklo|Ace
+Fexo,8,119,Beklo,2,37,Beklo|Fexo|Sergel|Renova|Exium
+Fexofast,9,120,Lumona,12,172,Lumona|Trilock|Fexofast|Esonix|Fexo
+Fexofast,9,120,Maxpro,15,179,Maxpro|Lumona|Fixal|Beklo|Fexo
+Fexofast,9,120,Lumona,12,172,Lumona|Fixal|Exium|Renova|Fexo
+Fexofast,9,120,Sergel,22,261,Sergel|Trilock|Esonix|Lumona|Fexo
+Fexofast,9,120,M-kast,13,174,M-kast|Lumona|Odmon|Trilock|Esonix
+Fexofast,9,120,Lumona,12,172,Lumona|Renova|Exium|Trilock|Fixal
+Fexofast,9,120,Sergel,22,261,Sergel|Lumona|Maxpro|Maxima|Fexo
+Fexofast,9,120,Sergel,22,261,Sergel|Lumona|Fexo|Fixal|Monas
+Fexofast,9,120,Sergel,22,261,Sergel|Fexo|Maxpro|Lumona|Monas
+Fexofast,9,120,Lumona,12,172,Lumona|Fixal|Fexo|Maxpro|Exium
+Fixal,10,124,Exium,6,109,Exium|Fixal|Montene|Maxpro|Maxima
+Fixal,10,124,Fixal,10,124,Fixal|Sergel|Lumona|Exium|Beklo
+Fixal,10,124,Fixal,10,124,Fixal|Exium|Renova|Rhinil|Disopan
+Fixal,10,124,Exium,6,109,Exium|Fixal|Sergel|Fexo|Renova
+Fixal,10,124,Fixal,10,124,Fixal|Exium|Fexo|Renova|Trilock
+Fixal,10,124,Fixal,10,124,Fixal|Exium|Trilock|M-kast|Zithrin
+Fixal,10,124,Rhinil,21,246,Rhinil|Exium|Fixal|Zithrin|Lumona
+Fixal,10,124,Fixal,10,124,Fixal|M-kast|Exium|Trilock|Axodin
+Fixal,10,124,Fixal,10,124,Fixal|Lumona|Renova|Zithrin|Exium
+Fixal,10,124,Maxpro,15,179,Maxpro|Exium|Sergel|Montene|Fixal
+Flexibac,11,128,Fixal,10,124,Fixal|Maxima|Lumona|Montene|Exium
+Flexibac,11,128,Lumona,12,172,Lumona|Renova|Maxpro|Fexo|Esonix
+Flexibac,11,128,Maxima,14,178,Maxima|Montene|M-kast|Exium|Lumona
+Flexibac,11,128,Maxima,14,178,Maxima|Montene|M-kast|Exium|Lumona
+Flexibac,11,128,Lumona,12,172,Lumona|Maxima|Renova|Maxpro|Fixal
+Flexibac,11,128,Beklo,2,37,Beklo|Flexibac|Sergel|Fixal|M-kast
+Flexibac,11,128,Trilock,23,270,Trilock|Lumona|Exium|Montene|Renova
+Flexibac,11,128,Trilock,23,270,Trilock|Exium|Renova|Lumona|Rhinil
+Flexibac,11,128,Trilock,23,270,Trilock|Lumona|Renova|Maxpro|Exium
+Flexibac,11,128,Maxpro,15,179,Maxpro|Rhinil|Lumona|Trilock|Renova
+Lumona,12,172,Lumona,12,172,Lumona|Maxima|Esonix|Odmon|Renova
+Lumona,12,172,Lumona,12,172,Lumona|Monas|Renova|Maxpro|Zithrin
+Lumona,12,172,Lumona,12,172,Lumona|Renova|Odmon|Disopan|Fexo
+Lumona,12,172,Lumona,12,172,Lumona|Renova|Odmon|Disopan|Fexo
+Lumona,12,172,Lumona,12,172,Lumona|Trilock|Rhinil|Exium|Zithrin
+Lumona,12,172,Lumona,12,172,Lumona|Renova|Exium|Rhinil|Esonix
+Lumona,12,172,Lumona,12,172,Lumona|Maxpro|Maxima|Renova|Fixal
+Lumona,12,172,Lumona,12,172,Lumona|Rhinil|Renova|Esonix|Maxpro
+Lumona,12,172,Lumona,12,172,Lumona|Maxpro|Renova|Zithrin|Monas
+Lumona,12,172,Rhinil,21,246,Rhinil|Exium|Renova|Zithrin|Lumona
+M-kast,13,174,M-kast,13,174,M-kast|Trilock|Monas|Napa Extend|Maxpro
+M-kast,13,174,Maxpro,15,179,Maxpro|Fixal|Exium|Napa Extend|Maxima
+M-kast,13,174,M-kast,13,174,M-kast|Maxima|Monas|Maxpro|Esonix
+M-kast,13,174,M-kast,13,174,M-kast|Fixal|Monas|Esonix|Trilock
+M-kast,13,174,Lumona,12,172,Lumona|Renova|Maxpro|Trilock|Exium
+M-kast,13,174,M-kast,13,174,M-kast|Lumona|Fixal|Maxima|Napa Extend
+M-kast,13,174,Lumona,12,172,Lumona|Esonix|Maxima|Exium|Renova
+M-kast,13,174,M-kast,13,174,M-kast|Maxima|Trilock|Maxpro|Beklo
+M-kast,13,174,Lumona,12,172,Lumona|Fixal|Exium|Maxima|Maxpro
+M-kast,13,174,M-kast,13,174,M-kast|Maxpro|Fixal|Lumona|Disopan
+Maxima,14,178,Maxima,14,178,Maxima|Monas|Lumona|Maxpro|Esonix
+Maxima,14,178,Maxima,14,178,Maxima|Lumona|Maxpro|Exium|Renova
+Maxima,14,178,Maxima,14,178,Maxima|Lumona|Esonix|Maxpro|Monas
+Maxima,14,178,Maxima,14,178,Maxima|Lumona|Maxpro|Monas|Esonix
+Maxima,14,178,Lumona,12,172,Lumona|Zithrin|Trilock|Disopan|Renova
+Maxima,14,178,Lumona,12,172,Lumona|Sergel|Beklo|Montene|Flexibac
+Maxima,14,178,Maxima,14,178,Maxima|Lumona|Maxpro|Monas|Esonix
+Maxima,14,178,Maxima,14,178,Maxima|Lumona|Maxpro|Monas|Esonix
+Maxima,14,178,Maxima,14,178,Maxima|Monas|Maxpro|Lumona|Esonix
+Maxima,14,178,Lumona,12,172,Lumona|Renova|Monas|Maxima|Montene
+Maxpro,15,179,Maxpro,15,179,Maxpro|Monas|Lumona|Maxima|Renova
+Maxpro,15,179,Fixal,10,124,Fixal|Lumona|Exium|Maxpro|Napa Extend
+Maxpro,15,179,Lumona,12,172,Lumona|Maxpro|Monas|Fixal|Odmon
+Maxpro,15,179,Lumona,12,172,Lumona|Maxpro|Exium|Zithrin|Monas
+Maxpro,15,179,Maxpro,15,179,Maxpro|Monas|Lumona|Maxima|Sergel
+Maxpro,15,179,Napa Extend,18,200,Napa Extend|Maxima|Lumona|Renova|Zithrin
+Maxpro,15,179,Lumona,12,172,Lumona|Monas|Maxima|Maxpro|Fixal
+Maxpro,15,179,Maxpro,15,179,Maxpro|Fexo|Lumona|Monas|Sergel
+Maxpro,15,179,Maxima,14,178,Maxima|Maxpro|Napa Extend|Disopan|Zithrin
+Maxpro,15,179,Maxima,14,178,Maxima|Maxpro|Napa Extend|Disopan|Zithrin
+Monas,16,189,Monas,16,189,Monas|Lumona|Renova|Esonix|Odmon
+Monas,16,189,Monas,16,189,Monas|Lumona|Maxpro|Fixal|Renova
+Monas,16,189,Lumona,12,172,Lumona|Maxpro|Exium|Fixal|Renova
+Monas,16,189,Lumona,12,172,Lumona|Maxpro|Monas|Renova|Fixal
+Monas,16,189,Lumona,12,172,Lumona|Renova|Monas|Maxpro|M-kast
+Monas,16,189,Monas,16,189,Monas|Lumona|Maxpro|Napa Extend|Exium
+Monas,16,189,Maxpro,15,179,Maxpro|Lumona|Monas|Maxima|Exium
+Monas,16,189,Maxpro,15,179,Maxpro|Lumona|Monas|Napa Extend|Fexo
+Monas,16,189,Lumona,12,172,Lumona|Fixal|Maxpro|Rhinil|Maxima
+Monas,16,189,Maxpro,15,179,Maxpro|Fixal|Monas|Exium|Lumona
+Montene,17,191,Montene,17,191,Montene|Lumona|Odmon|Renova|Maxima
+Montene,17,191,Lumona,12,172,Lumona|Maxpro|Exium|Fixal|Renova
+Montene,17,191,Montene,17,191,Montene|Lumona|Odmon|Monas|Maxima
+Montene,17,191,Lumona,12,172,Lumona|Odmon|Montene|Renova|Maxima
+Montene,17,191,Beklo,2,37,Beklo|Exium|Zithrin|Fixal|Renova
+Montene,17,191,Maxpro,15,179,Maxpro|Maxima|Lumona|Exium|Esonix
+Montene,17,191,Montene,17,191,Montene|Odmon|Lumona|Maxima|Monas
+Montene,17,191,Lumona,12,172,Lumona|Montene|Monas|Odmon|Rhinil
+Montene,17,191,Lumona,12,172,Lumona|Maxpro|Maxima|Zithrin|Renova
+Montene,17,191,Maxpro,15,179,Maxpro|Lumona|Trilock|Exium|Maxima
+Napa Extend,18,200,Maxima,14,178,Maxima|Lumona|Esonix|Exium|Renova
+Napa Extend,18,200,Fixal,10,124,Fixal|Exium|Zithrin|Renova|Monas
+Napa Extend,18,200,M-kast,13,174,M-kast|Lumona|Exium|Maxpro|Napa Extend
+Napa Extend,18,200,Maxpro,15,179,Maxpro|Lumona|Exium|Maxima|Renova
+Napa Extend,18,200,Maxima,14,178,Maxima|Exium|Montene|Maxpro|Lumona
+Napa Extend,18,200,Zithrin,24,299,Zithrin|Napa Extend|Maxima|Disopan|M-kast
+Napa Extend,18,200,Maxima,14,178,Maxima|Maxpro|Napa Extend|M-kast|Exium
+Napa Extend,18,200,M-kast,13,174,M-kast|Napa Extend|Maxpro|Fixal|Exium
+Napa Extend,18,200,Napa Extend,18,200,Napa Extend|M-kast|Maxpro|Monas|Esonix
+Napa Extend,18,200,Disopan,4,87,Disopan|Zithrin|Trilock|Exium|Renova
+Odmon,19,212,Odmon,19,212,Odmon|Renova|Lumona|Beklo|Monas
+Odmon,19,212,Lumona,12,172,Lumona|Odmon|Maxpro|Renova|Monas
+Odmon,19,212,Odmon,19,212,Odmon|Renova|Lumona|Beklo|Monas
+Odmon,19,212,Odmon,19,212,Odmon|Lumona|Esonix|Renova|Monas
+Odmon,19,212,Odmon,19,212,Odmon|Renova|Lumona|Rhinil|Monas
+Odmon,19,212,Lumona,12,172,Lumona|Renova|Maxpro|Zithrin|Exium
+Odmon,19,212,Odmon,19,212,Odmon|Renova|Disopan|Lumona|Beklo
+Odmon,19,212,Odmon,19,212,Odmon|Monas|Renova|Maxpro|Beklo
+Odmon,19,212,Odmon,19,212,Odmon|Renova|Lumona|Monas|Beklo
+Odmon,19,212,Odmon,19,212,Odmon|Renova|Lumona|Beklo|Monas
+Renova,20,242,Lumona,12,172,Lumona|Fixal|Sergel|Exium|Maxima
+Renova,20,242,Renova,20,242,Renova|Beklo|Lumona|Maxpro|Rhinil
+Renova,20,242,Lumona,12,172,Lumona|Trilock|Zithrin|Renova|Exium
+Renova,20,242,Lumona,12,172,Lumona|Renova|Exium|Trilock|Zithrin
+Renova,20,242,Lumona,12,172,Lumona|Renova|Maxima|Monas|Odmon
+Renova,20,242,Renova,20,242,Renova|Monas|Sergel|Lumona|Maxpro
+Renova,20,242,Lumona,12,172,Lumona|Renova|Exium|Fixal|Zithrin
+Renova,20,242,Renova,20,242,Renova|Lumona|Fixal|Rhinil|Exium
+Renova,20,242,Lumona,12,172,Lumona|Renova|Exium|Monas|Maxpro
+Renova,20,242,Lumona,12,172,Lumona|Renova|Esonix|Exium|Maxpro
+Rhinil,21,246,Rhinil,21,246,Rhinil|Fixal|Lumona|Denixil|Renova
+Rhinil,21,246,Fixal,10,124,Fixal|Rhinil|Exium|Zithrin|Flexibac
+Rhinil,21,246,Fixal,10,124,Fixal|Rhinil|Odmon|Exium|Lumona
+Rhinil,21,246,Rhinil,21,246,Rhinil|Fixal|Maxima|Denixil|Exium
+Rhinil,21,246,Fixal,10,124,Fixal|Rhinil|Lumona|Exium|Maxpro
+Rhinil,21,246,Rhinil,21,246,Rhinil|Lumona|Maxima|M-kast|Fexofast
+Rhinil,21,246,Rhinil,21,246,Rhinil|Fixal|Denixil|Lumona|Exium
+Rhinil,21,246,Rhinil,21,246,Rhinil|Denixil|Fixal|Lumona|Exium
+Rhinil,21,246,Rhinil,21,246,Rhinil|Exium|Monas|Montene|Zithrin
+Rhinil,21,246,Rhinil,21,246,Rhinil|Fixal|Exium|Renova|Denixil
+Sergel,22,261,Exium,6,109,Exium|Rhinil|Lumona|Trilock|Fixal
+Sergel,22,261,Maxpro,15,179,Maxpro|Lumona|Sergel|Monas|Maxima
+Sergel,22,261,Sergel,22,261,Sergel|Lumona|Monas|Rhinil|Napa Extend
+Sergel,22,261,Sergel,22,261,Sergel|Lumona|Odmon|Rhinil|Maxpro
+Sergel,22,261,Sergel,22,261,Sergel|Lumona|Odmon|M-kast|Denixil
+Sergel,22,261,Lumona,12,172,Lumona|Maxpro|Odmon|Montene|Sergel
+Sergel,22,261,Sergel,22,261,Sergel|Lumona|Disopan|Monas|Maxpro
+Sergel,22,261,Sergel,22,261,Sergel|Monas|Lumona|Maxpro|M-kast
+Sergel,22,261,Sergel,22,261,Sergel|Odmon|Disopan|Lumona|Fexo
+Sergel,22,261,Exium,6,109,Exium|Rhinil|Lumona|Trilock|Fixal
+Trilock,23,270,Trilock,23,270,Trilock|M-kast|Exium|Fixal|Fexofast
+Trilock,23,270,Fixal,10,124,Fixal|Exium|Trilock|Lumona|Maxpro
+Trilock,23,270,Lumona,12,172,Lumona|Renova|Exium|Rhinil|Esonix
+Trilock,23,270,Maxpro,15,179,Maxpro|Exium|Monas|Lumona|Renova
+Trilock,23,270,Sergel,22,261,Sergel|Napa Extend|M-kast|Trilock|Lumona
+Trilock,23,270,Trilock,23,270,Trilock|Montene|Exium|M-kast|Fixal
+Trilock,23,270,Montene,17,191,Montene|Trilock|Rhinil|M-kast|Exium
+Trilock,23,270,Lumona,12,172,Lumona|Exium|Renova|Maxima|Fixal
+Trilock,23,270,Fixal,10,124,Fixal|Exium|Renova|Lumona|Trilock
+Trilock,23,270,Exium,6,109,Exium|Zithrin|Trilock|Disopan|Rhinil
+Zithrin,24,299,Odmon,19,212,Odmon|Esonix|Fixal|Rhinil|Exium
+Zithrin,24,299,Zithrin,24,299,Zithrin|Odmon|Rhinil|Montene|Exium
+Zithrin,24,299,Zithrin,24,299,Zithrin|Exium|Rhinil|Napa Extend|Disopan
+Zithrin,24,299,Odmon,19,212,Odmon|Maxima|Renova|Esonix|Montene
+Zithrin,24,299,Lumona,12,172,Lumona|Renova|Esonix|Exium|Rhinil
+Zithrin,24,299,Odmon,19,212,Odmon|Disopan|Zithrin|Montene|Fexo
+Zithrin,24,299,Exium,6,109,Exium|Odmon|Renova|Montene|Fenadin
+Zithrin,24,299,Zithrin,24,299,Zithrin|Disopan|Maxima|Fenadin|Exium
+Zithrin,24,299,Zithrin,24,299,Zithrin|Fenadin|Exium|Axodin|Disopan
+Zithrin,24,299,Zithrin,24,299,Zithrin|Fenadin|Exium|Disopan|Montene

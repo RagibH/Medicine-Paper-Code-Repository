@@ -1,0 +1,165 @@
+{
+  "Ace": {
+    "precision": 0.9,
+    "recall": 0.9,
+    "f1-score": 0.9,
+    "support": 10.0
+  },
+  "Axodin": {
+    "precision": 1.0,
+    "recall": 0.1,
+    "f1-score": 0.18181818181818182,
+    "support": 10.0
+  },
+  "Beklo": {
+    "precision": 0.46153846153846156,
+    "recall": 0.6,
+    "f1-score": 0.5217391304347826,
+    "support": 10.0
+  },
+  "Denixil": {
+    "precision": 0.2222222222222222,
+    "recall": 0.2,
+    "f1-score": 0.21052631578947367,
+    "support": 10.0
+  },
+  "Disopan": {
+    "precision": 0.8333333333333334,
+    "recall": 0.5,
+    "f1-score": 0.625,
+    "support": 10.0
+  },
+  "Esonix": {
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1-score": 0.6666666666666666,
+    "support": 10.0
+  },
+  "Exium": {
+    "precision": 1.0,
+    "recall": 0.2,
+    "f1-score": 0.3333333333333333,
+    "support": 10.0
+  },
+  "Fenadin": {
+    "precision": 0.3333333333333333,
+    "recall": 0.1,
+    "f1-score": 0.15384615384615385,
+    "support": 10.0
+  },
+  "Fexo": {
+    "precision": 0.3333333333333333,
+    "recall": 0.3,
+    "f1-score": 0.3157894736842105,
+    "support": 10.0
+  },
+  "Fexofast": {
+    "precision": 0.8,
+    "recall": 0.4,
+    "f1-score": 0.5333333333333333,
+    "support": 10.0
+  },
+  "Fixal": {
+    "precision": 0.75,
+    "recall": 0.3,
+    "f1-score": 0.42857142857142855,
+    "support": 10.0
+  },
+  "Flexibac": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 10.0
+  },
+  "Lumona": {
+    "precision": 0.6666666666666666,
+    "recall": 0.6,
+    "f1-score": 0.631578947368421,
+    "support": 10.0
+  },
+  "M-kast": {
+    "precision": 0.75,
+    "recall": 0.3,
+    "f1-score": 0.42857142857142855,
+    "support": 10.0
+  },
+  "Maxima": {
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1-score": 0.6666666666666666,
+    "support": 10.0
+  },
+  "Maxpro": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 10.0
+  },
+  "Monas": {
+    "precision": 0.12727272727272726,
+    "recall": 0.7,
+    "f1-score": 0.2153846153846154,
+    "support": 10.0
+  },
+  "Montene": {
+    "precision": 0.14754098360655737,
+    "recall": 0.9,
+    "f1-score": 0.2535211267605634,
+    "support": 10.0
+  },
+  "Napa Extend": {
+    "precision": 1.0,
+    "recall": 0.4,
+    "f1-score": 0.5714285714285714,
+    "support": 10.0
+  },
+  "Odmon": {
+    "precision": 0.6,
+    "recall": 0.9,
+    "f1-score": 0.72,
+    "support": 10.0
+  },
+  "Renova": {
+    "precision": 0.6666666666666666,
+    "recall": 0.2,
+    "f1-score": 0.3076923076923077,
+    "support": 10.0
+  },
+  "Rhinil": {
+    "precision": 0.6153846153846154,
+    "recall": 0.8,
+    "f1-score": 0.6956521739130435,
+    "support": 10.0
+  },
+  "Sergel": {
+    "precision": 0.8571428571428571,
+    "recall": 0.6,
+    "f1-score": 0.7058823529411765,
+    "support": 10.0
+  },
+  "Trilock": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 10.0
+  },
+  "Zithrin": {
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1-score": 0.6666666666666666,
+    "support": 10.0
+  },
+  "accuracy": 0.42,
+  "macro avg": {
+    "precision": 0.602577408020031,
+    "recall": 0.42,
+    "f1-score": 0.429346754994841,
+    "support": 250.0
+  },
+  "weighted avg": {
+    "precision": 0.6025774080200309,
+    "recall": 0.42,
+    "f1-score": 0.429346754994841,
+    "support": 250.0
+  }
+}
